@@ -5,17 +5,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rskwiat/udemy-fullstack-react-node.git",
+    "url": "git+https://github.com/rskwiat/udemy-fullstack-react-node.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rskwiat/udemy-fullstack-react-node/issues"
   },
-  "homepage": "https://github.com/rskwiat/udemy-fullstack-react-node#readme",
-  "devDependencies": {
-    "eslint": "^4.5.0"
-  },
-  "dependencies": {
-  }
+  "homepage": "https://github.com/rskwiat/udemy-fullstack-react-node#readme"
 }
