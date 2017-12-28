@@ -12,5 +12,6 @@
   "bugs": {
     "url": "https://github.com/rskwiat/udemy-fullstack-react-node/issues"
   },
-  "homepage": "https://github.com/rskwiat/udemy-fullstack-react-node#readme"
+  "homepage": "https://github.com/rskwiat/udemy-fullstack-react-node#readme",
+  "dependencies": {}
 }
