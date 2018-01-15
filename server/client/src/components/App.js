@@ -5,14 +5,13 @@ import * as actions from '../actions';
 
 import Header from './Header';
 import Landing from './Landing';
-
-const Dashboard = () => <div><h2>Dashboard</h2></div>;
-const SurveyNew = () => <div><h2>SurveyNew</h2></div>;
-
+import Dashboard from './Dashboard';
+import SurveyNew from './surveys/SurveyNew';
 
 class App extends Component {
   componentDidMount() {
-    this.props.fetchUser();    
+    const { fetchUser } = this.props;
+    fetchUser();    
   }
 
   render() {

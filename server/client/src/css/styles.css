@@ -1,0 +1,9 @@
+.container-app {
+  margin: 40px auto 0;
+}
+
+.error{
+  font-style: italic;
+  font-size: 12px;
+  margin-bottom: 20px;
+}
